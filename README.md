@@ -1,6 +1,13 @@
 # Coffee-Orders-Analysis-
 Used a coffee data to analyse sales  I have gathered and transformed the data, to analyse and visualize it - to end up with a beautiful, dynamic, and interactive dashboard.
 
+## Link to Excel File
+[coffeeOrdersProject.xlsx](https://github.com/Ashelle04/Coffee-Orders-Analysis-/blob/main/coffeeOrdersProject.xlsx)
+
+## Instructions
+1. Clone the repository.
+2. Open the Excel file.
+3. Navigate to the dashboard sheet.
 Excel File Analysis: Coffee Sales
 Overview
 This project involves analyzing coffee sales data and creating an interactive dashboard for insights and visualization.
