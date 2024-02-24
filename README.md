@@ -7,27 +7,28 @@ This project involves analyzing coffee sales data and creating an interactive da
 
 # Key Components:
 
-XLOOKUP: Utilized for efficient lookup operations.
-INDEX MATCH: Employed for matching data across different ranges.
-Multiplication Formula for Sales: Calculation of sales figures.
-Multiple IF Functions: Used for conditional logic.
-Date Formatting: Ensured consistency and readability in date representation.
-Number Formatting: Enhanced visual presentation of numerical data.
-Check For Duplicates: Ensured data integrity by identifying and handling duplicates.
-Convert Range to Table: Transformed data into a structured table format.
-Pivot Tables and Pivot Charts: Employed for dynamic data summarization and visualization.
-Insert Timeline: Enhanced filtering capabilities for time-based data.
-Insert Slicers: Provided interactive filtering options for users.
-Updating the Pivot Table Data Source: Ensured data refresh for accurate insights.
-Building the Dashboard: Integrated various components to create an interactive dashboard.
-Pro Tip: Additional insights or best practices shared during the walkthrough.
+1. **XLOOKUP:** Utilized for efficient lookup operations.
+2. **INDEX MATCH:** Employed for matching data across different ranges.
+3. **Multiplication Formula for Sales:** Calculation of sales figures.
+4. **Multiple IF Functions:** Used for conditional logic.
+5. **Date Formatting:** Ensured consistency and readability in date representation.
+6. **Number Formatting:** Enhanced visual presentation of numerical data.
+7. **Check For Duplicates:** Ensured data integrity by identifying and handling duplicates.
+8. **Convert Range to Table:** Transformed data into a structured table format.
+9. **Pivot Tables and Pivot Charts:** Employed for dynamic data summarization and visualization.
+10. **Insert Timeline:** Enhanced filtering capabilities for time-based data.
+11. **Insert Slicers:** Provided interactive filtering options for users.
+12. **Updating the Pivot Table Data Source:** Ensured data refresh for accurate insights.
+13. **Building the Dashboard:** Integrated various components to create an interactive dashboard.
+14. **Pro Tip:** Additional insights or best practices shared during the walkthrough.
 
 
 # Dashboard Features:
-Sales by Month: Visual representation of sales trends over time.
-Sales by Country: Geographical distribution of sales.
-Top 5 Customers: Identification of top-performing customers.
-Interactive Elements: Filters like timeline and slicers for dynamic data exploration.
+- **Sales by Month:** Visual representation of sales trends over time.
+- **Sales by Country:** Geographical distribution of sales.
+- **Top 5 Customers:** Identification of top-performing customers.
+- **Interactive Elements:** 
+  - Filters like timeline and slicers for dynamic data exploration.
 
 
 # Conclusion
